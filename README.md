@@ -80,3 +80,13 @@ Tambien conocida como estandarización. Este método transforma cada valor numé
 
 Esta fue elegida porque se planea usar un **modelo de clasificación**, aunque aún no se ha definido cuál. Dado que muchos algoritmos de clasificación son sensibles a la escala (por ejemplo, SVM, KNN, regresión logística), la estandarización asegura que todas las características contribuyan de manera equitativa al proceso de aprendizaje.[5]
 
+# Biibliografia:
+[1]Grimm, “Books_Dataset_GoodReads(May 2024),” Kaggle.com, 2024. https://www.kaggle.com/datasets/dk123891/books-dataset-goodreadsmay-2024?select=Book_Details.csv (accessed May 19, 2025).
+
+[2]“About Goodreads,” Goodreads.com, 2025. https://www.goodreads.com/about/us (accessed May 19, 2025).
+
+[3]GeeksforGeeks, “An introduction to MultiLabel classification,” GeeksforGeeks, Jul. 15, 2020. https://www.geeksforgeeks.org/an-introduction-to-multilabel-classification/ (accessed May 19, 2025).
+
+[4]GeeksforGeeks, “ZScore Normalization: Definition and Examples,” GeeksforGeeks, Jul. 26, 2024. https://www.geeksforgeeks.org/z-score-normalization-definition-and-examples/ (accessed May 19, 2025).
+
+[5]I. Belcic, “Classification in Machine Learning,” Ibm.com, Oct. 15, 2024. https://www.ibm.com/think/topics/classification-machine-learning (accessed May 19, 2025).
